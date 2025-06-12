@@ -5,6 +5,10 @@
 * [Welcome to FTC WIKI](README.md)
 * [Brief Website Guide](site-introduction/brief-website-guide.md)
 
+***
+
+* [Get Started](get-started.md)
+
 ## How to build Competitive Robots
 
 * [How to Compete](how-to-build-competitive-robots/how-to-compete/README.md)
