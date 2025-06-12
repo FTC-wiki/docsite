@@ -2,7 +2,7 @@
 
 ### Exercise 6: Belt and Gear Transmission
 
-In this exercise, you'll be CADing and assembling a **belt and gear transmission**. The goal is to further refine your modeling skills. Additionally, you'll learn how to use the [**Belt and Chain Gen Featurescript**](../../onshape-setup/featurescripts.md#belt-and-chain-gen) as well as the[ Pully gen Document](../../onshape-setup/featurescripts.md#pulley-gen).
+In this exercise, you'll be CADing and assembling a **belt and gear transmission**. The goal is to further refine your modeling skills. Additionally, you'll learn how to use the [**Belt and Chain Gen Featurescript**](../../featurescripts.md#belt-and-chain-gen) as well as the[ Pully gen Document](../../featurescripts.md#pulley-gen).
 
 #### Part Studio Instructions <a href="#part-studio-instructions" id="part-studio-instructions"></a>
 

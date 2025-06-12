@@ -11,7 +11,7 @@
 
 * [Onshape setup](onshape-setup/README.md)
   * [FTC Insert Tool](onshape-setup/ftc-insert-tool.md)
-  * [Featurescripts](onshape-setup/featurescripts.md)
+* [Featurescripts](featurescripts.md)
 * [CAD Theory](cad-theory.md)
 
 ## Level 2
