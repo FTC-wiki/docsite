@@ -126,7 +126,7 @@ Insert the Bearings and the axle from the FTC Insert tool, as well as the gear f
 {% endstep %}
 
 {% step %}
-### Import the rest of the Parts
+### Import the remaining Parts
 
 <div><figure><img src="../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
