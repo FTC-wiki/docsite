@@ -1,17 +1,31 @@
----
-icon: pen-paintbrush
----
+# Intro to CAD Course
 
-# Design Style
+This course is designed to take you from a complete beginner to confidently modeling a full FTC robot. It emphasizes FTC-specific features and tools through engaging proLing concepts. As you advance, the projects become progressively more independent, yet always provide references to guide you along the way.
 
-The design of a robot is more than just putting parts together. It's about how all the parts work as a system. The way you approach your robot’s design has a huge impact on how easy it is to build, iterate, fix, and compete with.&#x20;
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>FTC 6962 Pokébolts Chassis</p></figcaption></figure>
 
-This section dives into the principles that make FTC robots clean, consistent, and competition-ready. Whether you're designing your first bot or refining your 10th, having a clear design style improves reliability and efficiency across the board.
+{% stepper %}
+{% step %}
+### Level 1
 
-Clean, modular, and serviceable robots are not accidents. Every benefit is the result of intentional design choices. Every bracket, wire, and spacer should have a purpose, and no mechanism should be harder to reach than necessary. In this section, we break down the visual and structural design elements that make great FTC robots stand out, including standard spacing conventions, wiring discipline, fastener choices, and a mindset for mechanical clarity.
+* **CAD Fundamentals** – An introduction to the basics of computer-aided design
+* **Onshape Setup** – Step-by-step guidance on creating an account and adding essential tools
+* **Navigation Guide** – How to efficiently move through Onshape’s interface and features
+* **Core Principles** – Fundamental concepts that foster a strong design mindset
 
-Understanding and applying a consistent design language also makes it easier for new team members to contribute, CAD reviewers to catch mistakes, and for everyone to debug or disassemble the robot during matches or inspections. It even helps judges quickly understand how your robot works.
+<figure><img src=".gitbook/assets/image (29).png" alt="" width="563"><figcaption></figcaption></figure>
+{% endstep %}
 
-Here, you'll find breakdowns on visual cleanliness, standardization, modularity, wire management, and construction techniques that are easy to maintain and scale. These best practices are not just about aesthetics—they’re about performance, safety, and professionalism.
+{% step %}
+### Level 2
+
+* **CAD Essentials** – Master the basics of sketching, part design, multi-part modeling, and assemblies with Onshape Learning Courses and FTC-focused exercises
+* **Mechanical Systems** – Explore power transmission principles and develop gearbox models
+* **Top-Down Workflow** – Begin applying top-down design strategies for FTC projects
+
+<div><figure><img src=".gitbook/assets/image (20).png" alt="" width="375"><figcaption><p><em>Exercise #5 Two-Stage Gearbox</em></p></figcaption></figure> <figure><img src=".gitbook/assets/image (19).png" alt="" width="321"><figcaption><p><em>Exercise #6 Belt and Gear Transmission</em></p></figcaption></figure></div>
+
+
+{% endstep %}
+{% endstepper %}
+

@@ -10,7 +10,7 @@ Get ready to practice! Begin by copying the Stage 2B Exercises Document using th
 
 ### Exercise 4: Simple Gearbox <a href="#exercise-1-simple-gearbox" id="exercise-1-simple-gearbox"></a>
 
-In this exercise, you'll be CADing and assembling a **single-stage gearbox**. The aim is to introduce the basics of designing a simple gear transmission. Along the way, you'll also get hands-on experience with [gears](https://app.gitbook.com/s/D2GXZ5NUEk64Zn6lJiL2/gears), [motors](https://app.gitbook.com/s/D2GXZ5NUEk64Zn6lJiL2/motors), [bearings](https://app.gitbook.com/s/D2GXZ5NUEk64Zn6lJiL2/bearings), c2c, [gear relation](https://app.gitbook.com/s/D2GXZ5NUEk64Zn6lJiL2/gears/gear-ratios), and the [FTC Insert Tool](../../onshape-setup/ftc-insert-tool.md).
+In this exercise, you'll be CADing and assembling a **single-stage gearbox**. The aim is to introduce the basics of designing a simple gear transmission. Along the way, you'll also get hands-on experience with [gears](https://app.gitbook.com/s/D2GXZ5NUEk64Zn6lJiL2/gears), [motors](https://app.gitbook.com/s/D2GXZ5NUEk64Zn6lJiL2/motors), [bearings](https://app.gitbook.com/s/D2GXZ5NUEk64Zn6lJiL2/introduction-to-motion/bearings), c2c, [gear relation](https://app.gitbook.com/s/D2GXZ5NUEk64Zn6lJiL2/gears/gear-ratios), and the [FTC Insert Tool](../../onshape-setup/ftc-insert-tool.md).
 
 #### Layout Sketches <a href="#layout-sketches" id="layout-sketches"></a>
 
@@ -34,7 +34,7 @@ Draw pitch diameter circles for the 60-tooth and 20-tooth gears. Make them tange
 {% step %}
 ### Create a new sketch for the motor plate.&#x20;
 
-<div><figure><img src="../../.gitbook/assets/image.png" alt="" width="325"><figcaption><p> </p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (4).png" alt="" width="325"><figcaption><p> </p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Using the layout as the reference, draw an 8mm hole for the bearing and a 14mm hole for the axle that sticks out from the motor. Note that depending on your manufacturing processes and tolerances, you may need to draw your bearing holes slightly larger or smaller.
 
@@ -44,7 +44,7 @@ Add four mounting holes for the motor and four bolt holes for connecting the two
 {% step %}
 ### Finishing Bottom Plate
 
-<div><figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Using center point rectangles, sketch fillets, and 3-point arcs, outline the plate around the holes and the motor outline.
 
@@ -122,7 +122,23 @@ Import the top and bottom plates as well as the spacer. Mate the spacer to the b
 
 <div><figure><img src="../../.gitbook/assets/image (40).png" alt="" width="275"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (41).png" alt="" width="282"><figcaption></figcaption></figure></div>
 
+Insert the Bearings and the axle from the FTC Insert tool, as well as the gear from the part studio. Then, mate the bearing to the bottom plate, and mate the gear to the rotating part of the bearing. Mate the other bearing to the top plate and then mate it to one of the spacers.
+{% endstep %}
 
+{% step %}
+### Import the rest of the Parts
+
+<div><figure><img src="../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+Import the rest of the parts, and mate the 20-tooth gear onto the rotating shaft. Then mate the screws and use the replicate tool to replicate the screw mates.
+{% endstep %}
+
+{% step %}
+### Gear Relation
+
+<div><figure><img src="../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Recording2025-06-12085143-ezgif.com-video-to-gif-converter.gif" alt="" width="375"><figcaption></figcaption></figure></div>
+
+Create a gear relation by choosing the two revolute mates that are mated to your gears. You can do this by clicking on the motor and the bearing dropdowns and going to mates, where you click the revolute mate. Now, calculate the [gear ratio](https://app.gitbook.com/s/D2GXZ5NUEk64Zn6lJiL2/gears/gear-ratios) and reverse the direction.
 {% endstep %}
 {% endstepper %}
 {% endtab %}

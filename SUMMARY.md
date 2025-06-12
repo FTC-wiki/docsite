@@ -1,24 +1,33 @@
 # Table of contents
 
-* [Design Style](README.md)
-* [Optimizing Design for 3D Printing](optimizing-design-for-3d-printing/README.md)
-  * [Orientation and Layer Strength](optimizing-design-for-3d-printing/orientation-and-layer-strength.md)
-  * [Wall Strength & Shells](optimizing-design-for-3d-printing/wall-strength-and-shells.md)
-  * [Load Distribution](optimizing-design-for-3d-printing/load-distribution.md)
-  * [Filaments](optimizing-design-for-3d-printing/filaments.md)
-* [Weight Savings (Pocketing)](weight-savings-pocketing.md)
+* [Intro to CAD Course](README.md)
 
-## Design Guidelines
+## Level 1
 
-* [How to Design a Clean Robot](design-guidelines/how-to-design-a-clean-robot.md)
-* [Modularity](design-guidelines/modularity.md)
-* [Standardization](design-guidelines/standardization.md)
-* [Wiring](design-guidelines/wiring.md)
-* [Naming Conventions](design-guidelines/naming-conventions.md)
+* [What is CAD?](level-1/what-is-cad/README.md)
+  * [Different types of CAD software](level-1/what-is-cad/different-types-of-cad-software.md)
 
-## Design Methodologies
+***
 
-* [Sheet Metal](design-methodologies/sheet-metal.md)
-* [Plate and standoff construction](design-methodologies/plate-and-standoff-construction.md)
-* [Boxtube construction](design-methodologies/boxtube-construction.md)
-* [Slots and Tabs](design-methodologies/slots-and-tabs.md)
+* [Onshape setup](onshape-setup/README.md)
+  * [FTC Insert Tool](onshape-setup/ftc-insert-tool.md)
+  * [Featurescripts](onshape-setup/featurescripts.md)
+* [CAD Theory](cad-theory.md)
+
+## Level 2
+
+* [A. Onshape Basics (WIP)](level-2/a.-onshape-basics-wip/README.md)
+  * [Sketching and Part Design](level-2/a.-onshape-basics-wip/sketching-and-part-design.md)
+  * [Exercise #1 Parallel plate](level-2/a.-onshape-basics-wip/exercise-1-parallel-plate.md)
+  * [Exercise #2](level-2/a.-onshape-basics-wip/exercise-2.md)
+  * [Exercise #3 Mounting Paterns](level-2/a.-onshape-basics-wip/exercise-3-mounting-paterns.md)
+* [B. Power Transmission (WIP)](level-2/b.-power-transmission-wip/README.md)
+  * [Exercise #4 Simple Gearbox](level-2/b.-power-transmission-wip/exercise-4-simple-gearbox.md)
+  * [Exercise #5 Two-Stage Gearbox](level-2/b.-power-transmission-wip/exercise-5-two-stage-gearbox.md)
+  * [Exercise #6 Belt and Gear Transmission](level-2/b.-power-transmission-wip/exercise-6-belt-and-gear-transmission.md)
+* [C.  Practice Mechanisms (in Progress)](level-2/c.-practice-mechanisms-in-progress/README.md)
+  * [Introduction](level-2/c.-practice-mechanisms-in-progress/introduction.md)
+  * [Exercise #7 Flywheel Shooter](level-2/c.-practice-mechanisms-in-progress/exercise-7-flywheel-shooter.md)
+  * [Exercise #8 One Servo Claw](level-2/c.-practice-mechanisms-in-progress/exercise-8-one-servo-claw.md)
+  * [Exercise #9 Roller Intake](level-2/c.-practice-mechanisms-in-progress/exercise-9-roller-intake.md)
+* [D. Linkages (in Progress)](level-2/d.-linkages-in-progress.md)
