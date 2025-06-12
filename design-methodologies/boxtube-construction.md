@@ -1,3 +1,7 @@
+---
+icon: maximize
+---
+
 # Boxtube construction
 
 Tube-based construction uses square (or rectangular) extrusion as the main structure. It’s popular for building strong, minimal-friction drivetrains, arms, and linear slide supports. Teams often use aluminum tubing or extruded building systems like REV or GoBILDA.

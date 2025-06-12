@@ -1,3 +1,7 @@
+---
+icon: egg
+---
+
 # Wall Strength & Shells
 
 _\[Illustration: Cross-section of part showing 2-wall vs. 4-wall shell strength comparison]_\

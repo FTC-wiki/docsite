@@ -1,3 +1,7 @@
+---
+icon: nfc
+---
+
 # Wiring
 
 Good wiring doesn’t just look nice—it prevents damage, reduces electrical noise, and keeps your robot easy to service. Poor wire management is one of the top causes of robot failure in competition.

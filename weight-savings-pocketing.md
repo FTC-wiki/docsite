@@ -1,3 +1,7 @@
+---
+icon: sword-laser-alt
+---
+
 # Weight Savings (Pocketing)
 
 **Pocketing >**&#x20;

@@ -1,2 +1,6 @@
+---
+icon: hourglass-half
+---
+
 # Standardization
 

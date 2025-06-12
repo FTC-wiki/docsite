@@ -1,3 +1,7 @@
+---
+icon: block-brick
+---
+
 # Orientation and Layer Strength
 
 _\[Illustration: Same bracket printed vertically vs. horizontally, showing layer lines and failure direction]_\

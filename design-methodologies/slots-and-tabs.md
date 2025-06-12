@@ -1,3 +1,7 @@
+---
+icon: box-ballot
+---
+
 # Slots and Tabs
 
 Slot and tab construction involves interlocking parts like a 3D puzzle. Tabs on one piece fit into slots on another, aligning the parts automatically. When glued, bolted, or clamped together, this method creates fast, rigid assemblies without complex tools.

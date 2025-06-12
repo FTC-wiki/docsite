@@ -1,3 +1,7 @@
+---
+icon: tag
+---
+
 # Naming Conventions
 
 CAD files can become a mess faster than your pit table if you don’t stay organized. Clean file structure and naming make it easier for multiple people to collaborate and modify the design as it evolves.

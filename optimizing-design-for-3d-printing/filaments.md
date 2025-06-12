@@ -1,3 +1,7 @@
+---
+icon: reel
+---
+
 # Filaments
 
 FDM 3D printers use material called filament. It's a thin plastic wire that comes on a spool and is fed into the printer. Most filament is plastic, however, there are also metal, composite and rubber filaments.

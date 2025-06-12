@@ -1,3 +1,7 @@
+---
+icon: road-barrier
+---
+
 # Load Distribution
 
 _\[Illustration: Gusseted support bracket vs. non-supported version showing stress points]_\

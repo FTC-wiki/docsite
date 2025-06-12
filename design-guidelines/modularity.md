@@ -1,3 +1,7 @@
+---
+icon: puzzle
+---
+
 # Modularity
 
 Building your robot with modular subsystems saves hours during testing and events. Modularity means each mechanism can be treated like a black box—built, tested, and repaired independently. Standardization ensures that parts and tools are consistent across your design.

@@ -1,3 +1,7 @@
+---
+icon: cube
+---
+
 # Optimizing Design for 3D Printing
 
 3D printing offers huge advantages in FTC; custom parts, quick iteration, and geometric flexibility. However, to truly benefit, parts must be **designed specifically for printing**. Poorly designed models can waste time, filament, and lead to mechanical failures. Designing for 3D printing isn’t just about making a part printable—it’s about making it strong, efficient, and cleanly manufactured _on your specific printer and material_.

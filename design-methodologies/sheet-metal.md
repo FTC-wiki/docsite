@@ -1,3 +1,7 @@
+---
+icon: coin
+---
+
 # Sheet Metal
 
 Sheet metal design involves cutting 2D flat parts—usually from aluminum or polycarbonate—and bending them to form rigid 3D structures. Common in professional manufacturing, this method brings high strength-to-weight ratios and sleek results to FTC when used with laser cutters, waterjets, or CNC routers.
