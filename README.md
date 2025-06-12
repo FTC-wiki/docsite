@@ -1,20 +1,13 @@
----
-description: We hope you enjoy your stay....
----
+# Design Style
 
-# Welcome to FTC WIKI
+The design of a robot is more than just putting parts together. It's about how all the parts work as a system. The way you approach your robot’s design has a huge impact on how easy it is to build, iterate, fix, and compete with.&#x20;
 
-<figure><img src=".gitbook/assets/FTCWIKIBANNER.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>FTC 6962 Pokébolts Chassis</p></figcaption></figure>
 
-**This Wiki’s Purpose**&#x20;
+This section dives into the principles that make FTC robots clean, consistent, and competition-ready. Whether you're designing your first bot or refining your 10th, having a clear design style improves reliability and efficiency across the board.
 
-This initiative is designed for current or aspiring _FIRST_ Tech Challenge mechanical members. This guide will outline the beginner and intermediate aspects of _FIRST_ Tech Challenge mechanics. This encyclopedia has been designed for individuals with some experience in building and assembling things, but who are stuck between skill levels where resources are either too basic or just a little above their heads.\
+Clean, modular, and serviceable robots are not accidents. Every benefit is the result of intentional design choices. Every bracket, wire, and spacer should have a purpose, and no mechanism should be harder to reach than necessary. In this section, we break down the visual and structural design elements that make great FTC robots stand out, including standard spacing conventions, wiring discipline, fastener choices, and a mindset for mechanical clarity.
 
+Understanding and applying a consistent design language also makes it easier for new team members to contribute, CAD reviewers to catch mistakes, and for everyone to debug or disassemble the robot during matches or inspections. It even helps judges quickly understand how your robot works.
 
-&#x20;Hopefully, by the end of this guide, you will have a deeper understanding of the mechanical aspects of robotics.\
-
-
-**About us**&#x20;
-
-We are FTC Alumni from Scotch Plains, New Jersey, veteran members of Team 17670 for 4 years, and Team Captains. We’ve both been building for 4 years and are active members in the online FTC community. We have experience with multiple build systems, including Tetrix and Gobilda, and have created many iterations of Swerve drive.
-
+Here, you'll find breakdowns on visual cleanliness, standardization, modularity, wire management, and construction techniques that are easy to maintain and scale. These best practices are not just about aesthetics—they’re about performance, safety, and professionalism.
