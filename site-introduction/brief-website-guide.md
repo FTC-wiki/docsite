@@ -1,3 +1,7 @@
+---
+icon: person-walking-with-cane
+---
+
 # Brief Website Guide
 
 We highly recommend starting here so you have a good idea of what website features to look out for!
