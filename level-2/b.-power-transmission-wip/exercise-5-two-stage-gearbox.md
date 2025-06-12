@@ -100,7 +100,7 @@ To pocket the other plate, click the face of the bottom plate, and use the same 
 
 Create a new sketch, draw a 10mm circle, and using the circumscribed polygon tool and make a 6-sided shape with a diameter of 8mm.
 
-Extrude by 5mm, and you can start the [assembly](https://www.ftcwiki.org/intro-to-cad/level-2/b.-power-transmission-wip/exercise-5-two-stage-gearbox#starting-the-assembly).
+Extrude by 5mm, and you can start the [assembly](exercise-5-two-stage-gearbox.md#assembly-instructions).
 {% endstep %}
 {% endstepper %}
 {% endtab %}

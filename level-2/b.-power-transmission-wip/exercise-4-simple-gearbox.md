@@ -98,7 +98,7 @@ Then create the center REX bore by using the circumscribed polygon tool and maki
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt="" width="563"><figcaption></figcaption></figure>
 
-Now the part studio is finished, and you can move on to the [assembly](https://www.ftcwiki.org/intro-to-cad/level-2/b.-power-transmission-wip/exercise-4-simple-gearbox#starting-the-assembly).
+Now the part studio is finished, and you can move on to the [assembly](exercise-4-simple-gearbox.md#assembly-instructions).
 {% endstep %}
 {% endstepper %}
 {% endtab %}
